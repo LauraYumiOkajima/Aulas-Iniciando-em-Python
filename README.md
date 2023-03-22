@@ -1,2 +1,2 @@
 # portfolio
-Primeiros projetos desenvolvidos em linguagem Python .
+#Primeiros portifolio desenvolvido em HTML e CSS através do curso da Alura.
